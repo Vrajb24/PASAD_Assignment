@@ -1,8 +1,6 @@
-# PASAD_Assignment
-This Assignment implements intrusion detection method using PASAD.
-=======
-
 # PASAD Analysis Project
+
+This Assignment implements intrusion detection method using PASAD.
 
 This project implements and compares various approaches to Process-Aware Stealthy Attack Detection (PASAD) across different datasets. It includes implementations of PASAD using various distance measures, threshold configurations, and clustering center calculations. The project also explores different Lag parameter configurations to optimize the PASAD detection.
 
